@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gbTyS0AH6LOnx+yEBWYMtIRb9hEajLtArxihN+cBJznWZCP2ONgRWWNLHqpYRYYbwKo7n7NICwbbozvOY8Utw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thoma\\source\\repos\\make your life easier\\make your life easier\\make your life easier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\octokit\\9.1.2\\octokit.9.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
